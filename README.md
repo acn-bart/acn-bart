@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @acn-bart
-- 👀 I’m interested in weird and crazy stuff
-- 🌱 I’m currently learning IaC
-- 💞️ I’m collaborating on corporate stuff
-- 📫 How to reach me, try personal account @bjfs84
+- 👀 I’m interested in wierd and crazy stuff
+- 🌱 I’m currently a corporate 🐭
+- 🙈🙉🙊 find me on [BitBucket](https://bitbucket.org/bjfs/)
 
 <!---
 acn-bart/acn-bart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
